@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_about">About</string>
+    <string name="back">back</string>
+    <string name="director">Director</string>
+    <string name="writers">Writers</string>
+    <string name="stars">Stars</string>
+    <string name="genres">Genres</string>
+    <string name="duration">Duration</string>
+    <string name="year">Year</string>
+    <string name="rating">Rating</string>
+    <string name="rating_from">%s / 10</string>
+    <string name="page_home">home_page</string>
+    <string name="page_favorite">favorite_page</string>
+    <string name="page_about">about_page</string>
+    <string name="empty_state_home">Daftar film kosong</string>
+    <string name="empty_state_home_detail">"Belum ada ulasan film saat ini"</string>
+    <string name="empty_state_favorite">Daftar favorit kosong!</string>
+    <string name="empty_state_favorite_detail">Temukan hal-hal yang kamu sukai dan simpan di halaman favoritmu</string>
+    <string name="search_movie">Cari film</string>
+    <string name="about_name">Anggara Dwi Kuntoro</string>
+    <string name="about_email">anggara.dwikuntoro@gmail.com</string>
+</resources>
